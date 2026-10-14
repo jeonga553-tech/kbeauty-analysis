@@ -1,0 +1,9 @@
+scenario,parameter,value,why
+optimistic,price_discount_vs_market,1.0,sell at the full market median despite being an unknown brand
+optimistic,freight_per_kg,4.0,cheaper consolidated air freight
+optimistic,compliance_per_sku,0,repeat order: Responsible Person and safety report already paid
+optimistic,bol_ad_rate,0.04,half the ad spend on bol.com
+optimistic,bol_units_per_order,1.3,some customers buy two items
+optimistic,web_cac_per_order,8,mostly organic Instagram with some paid ads
+optimistic,web_units_per_order,3,customers buy routine bundles of three products
+optimistic,channel_mix_bol,0.5,half of sales through own webshop

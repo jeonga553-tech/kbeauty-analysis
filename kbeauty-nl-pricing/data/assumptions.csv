@@ -1,0 +1,30 @@
+parameter,value,unit,source_or_basis,confidence
+usd_eur,0.89381,EUR per USD,ECB reference rate via frankfurter.app on 2026-10-13,high
+fx_spread,0.015,share of FOB,typical bank FX margin on a USD wire,medium
+wire_fee,25,EUR per order to supplier,typical international wire fee,medium
+freight_per_kg,7.0,EUR per chargeable kg,air freight Korea-Amsterdam via forwarder/courier for ~150 kg (estimate),low
+packaging_weight_uplift,0.15,share,outer cartons and fillers on top of unit weight,medium
+customs_clearance_fixed,250,EUR per shipment,customs broker + handling + local delivery (estimate),low
+use_fta_origin_proof,1,1 = yes,EU-Korea FTA gives 0% duty with an origin statement from the supplier,high
+dutch_label_per_unit,0.15,EUR per unit,printed Dutch/EU sticker label (estimate),medium
+vat_rate,0.21,share,Dutch standard VAT rate on cosmetics,high
+compliance_per_sku,250,EUR per SKU (one-off),Responsible Person + CPSR/PIF check; real quotes range ~100-800 per SKU,low
+label_design_fixed,150,EUR one-off,label artwork,low
+kvk_registration,82.25,EUR one-off,KvK registration fee,medium
+photo_content_fixed,200,EUR one-off,product photos for listings and Instagram,low
+returns_damage_rate,0.03,share of net revenue,returns + damaged/unsellable stock allowance,medium
+bol_commission_pct,0.12,share of price incl VAT,bol beauty category 5-15% (partnerplatform.bol.com/commissie),medium
+bol_commission_fixed,0.55,EUR per item,bol beauty category 0.20-0.85 EUR,medium
+bol_shipping_per_order,3.60,EUR per order,mailbox parcel via bol shipping labels (estimate; PostNL site not reachable),low
+bol_ad_rate,0.08,share of price incl VAT,bol sponsored products ad spend (ACoS) for a new unknown brand,low
+bol_units_per_order,1.0,units,most bol orders are a single item,medium
+web_payment_pct,0.019,share of price incl VAT,Shopify Payments / iDEAL style fee,medium
+web_payment_fixed,0.25,EUR per order,payment fixed fee,medium
+web_shipping_per_order,5.00,EUR per order,PostNL small-business rate mix of mailbox and parcel (estimate),low
+web_cac_per_order,12.0,EUR per order,Instagram/Meta + Google ads cost per order for a new K-beauty webshop; realistic range 8-20,low
+web_units_per_order,2.0,units,bundles and routines raise basket size,low
+web_platform_monthly,36,EUR per month,Shopify Basic monthly plan,medium
+packaging_per_order,0.45,EUR per order,mailer box + filler + thank-you card,medium
+price_discount_vs_market,0.85,multiplier,unknown brands need roughly 15% below the median of known K-beauty brands,medium
+channel_mix_bol,0.7,share of units,share of units sold on bol vs own webshop,low
+months_to_sell_batch,12,months,horizon used for monthly platform fees,low

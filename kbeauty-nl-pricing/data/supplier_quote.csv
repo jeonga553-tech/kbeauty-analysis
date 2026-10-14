@@ -1,0 +1,10 @@
+product_key,product_name_ko,product_name_en,fob_usd,moq,assumed_pack,est_unit_weight_kg,hs_code,mfn_duty_rate,comparable_group
+flower_pad,70 플라워 패드,Toner pad jar (70 pads),8.20,60,1 jar of ~70 pads (assumed from name),0.38,3304.99,0.00,toner_pad_jar
+sheet_mask,수분 미백 마스크팩,Hydrating & brightening sheet mask,5.50,60,box of 10 sheets (ASSUMED - confirm),0.30,3304.99,0.00,sheet_mask_box
+mineral_sunscreen,무기자차 논나노 선크림,Mineral non-nano sunscreen,6.00,100,1 tube ~50 ml,0.09,3304.99,0.00,sunscreen
+niacinamide_serum,나이아신아마이드 세럼,Niacinamide serum,8.80,100,1 bottle ~30-50 ml,0.12,3304.99,0.00,niacinamide_serum
+soothing_mist,수딩 미스트,Soothing face mist,8.60,80,1 bottle ~100 ml,0.20,3304.99,0.00,face_mist
+melting_cream,데일리 멜팅 크림,Daily melting cream,12.70,120,1 jar ~50 ml,0.18,3304.99,0.00,moisturiser
+cleansing_foam,마일드 편백 클렌징 폼,Mild hinoki cleansing foam,6.00,90,1 tube ~150 ml,0.20,3401.30,0.04,cleansing_foam
+eye_cream,리페어 C 아이크림,Repair C eye cream,7.90,452,1 tube ~30 ml,0.07,3304.99,0.00,eye_cream
+exfoliating_pad_5,각질케어 토너패드 70송이 5매입,Exfoliating toner pads (5-pad pouch),3.00,84,pouch of 5 pads,0.06,3304.99,0.00,pad_pouch
